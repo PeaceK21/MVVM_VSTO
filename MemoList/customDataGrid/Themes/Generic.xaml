@@ -1,0 +1,28 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib"
+                    xmlns:controls="clr-namespace:BoostDraft.UI.Controls"
+                    xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes">
+
+    <CornerRadius x:Key="ControlCornerRadius">5</CornerRadius>
+    <sys:Double x:Key="ControlHeight">40</sys:Double>
+
+
+    <sys:Double x:Key="LargeFontSize">24</sys:Double>
+    <sys:Double x:Key="MediumFontSize">16</sys:Double>
+    <sys:Double x:Key="SmallFontSize">14</sys:Double>
+
+
+    <Color x:Key="PrimaryDarkColor">#467E57</Color>
+    <Color x:Key="PrimaryMidColor">#6ABE83</Color>
+    <Color x:Key="PrimaryLightColor">#9BD3AC</Color>
+
+    <Color x:Key="AccentColor">#F06966</Color>
+
+    <Color x:Key="GrayDarkColor">#67728D</Color>
+    <Color x:Key="GrayMidColor">#C3C3C3</Color>
+    <Color x:Key="GrayLightColor">#EEEEEE</Color>
+    <Color x:Key="GrayExtraLightColor">#F1F1F1</Color>
+
+    <Color x:Key="LightColor">#FCFCFC</Color>
+</ResourceDictionary>

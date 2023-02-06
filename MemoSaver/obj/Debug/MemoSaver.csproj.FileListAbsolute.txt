@@ -1,0 +1,108 @@
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MemoSaver.dll.config
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MemoSaver.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MemoSaver.pdb
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MemoSaver.dll.manifest
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MemoSaver.vsto
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\EntityFramework.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\EntityFramework.SqlServer.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MaterialDesignColors.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MemoForms.exe
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MemoList.exe
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\System.Data.SQLite.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\WindowsBase.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\Dapper.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\Apex.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MemoForms.pdb
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MemoForms.exe.config
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MemoList.pdb
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MemoList.exe.config
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\EntityFramework.xml
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\EntityFramework.SqlServer.xml
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MaterialDesignColors.pdb
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\System.Data.SQLite.xml
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\Dapper.xml
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\obj\Debug\MemoSaver.csprojAssemblyReference.cache
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\obj\Debug\MemoSaver.Properties.Resources.resources
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\obj\Debug\MemoSaver.csproj.GenerateResource.cache
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\obj\Debug\MemoSaver.csproj.CoreCompileInputs.cache
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\obj\Debug\MemoSaver.csproj.CopyComplete
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\obj\Debug\MemoSaver.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoSaver\obj\Debug\MemoSaver.pdb
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MemoSaver.dll.config
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MemoSaver.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MemoSaver.pdb
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MemoSaver.dll.manifest
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MemoSaver.vsto
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\EntityFramework.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\EntityFramework.SqlServer.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MaterialDesignColors.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MaterialDesignThemes.Wpf.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MemoForms.exe
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MemoList.exe
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\System.Data.SQLite.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\System.Data.SQLite.EF6.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\System.Data.SQLite.Linq.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\WindowsBase.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\Dapper.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\Apex.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MemoForms.pdb
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MemoForms.exe.config
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MemoList.pdb
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MemoList.exe.config
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\EntityFramework.xml
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\EntityFramework.SqlServer.xml
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MaterialDesignColors.pdb
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MaterialDesignThemes.Wpf.pdb
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\MaterialDesignThemes.Wpf.xml
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\System.Data.SQLite.xml
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\bin\Debug\Dapper.xml
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\obj\Debug\MemoSaver.csproj.AssemblyReference.cache
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\obj\Debug\MemoSaver.Properties.Resources.resources
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\obj\Debug\MemoSaver.csproj.GenerateResource.cache
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\obj\Debug\MemoSaver.csproj.CoreCompileInputs.cache
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\obj\Debug\MemoSaver.csproj.CopyComplete
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\obj\Debug\MemoSaver.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoSaver\obj\Debug\MemoSaver.pdb
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\bin\Debug\MemoSaver.dll.config
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\bin\Debug\MemoSaver.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\bin\Debug\MemoSaver.pdb
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\bin\Debug\MemoSaver.dll.manifest
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\bin\Debug\MemoSaver.vsto
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\bin\Debug\EntityFramework.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\bin\Debug\MaterialDesignColors.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\bin\Debug\MemoForms.exe
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\bin\Debug\MemoList.exe
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\bin\Debug\System.Data.SQLite.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\bin\Debug\WindowsBase.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\bin\Debug\Dapper.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\bin\Debug\Apex.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\bin\Debug\MemoForms.pdb
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\bin\Debug\MemoForms.exe.config
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\bin\Debug\MemoList.pdb
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\bin\Debug\MemoList.exe.config
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\bin\Debug\EntityFramework.xml
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\bin\Debug\System.Data.SQLite.xml
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\bin\Debug\Dapper.xml
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\obj\Debug\MemoSaver.csproj.AssemblyReference.cache
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\obj\Debug\MemoSaver.Properties.Resources.resources
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\obj\Debug\MemoSaver.csproj.GenerateResource.cache
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\obj\Debug\MemoSaver.csproj.CoreCompileInputs.cache
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\obj\Debug\MemoSaver.csproj.CopyComplete
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\obj\Debug\MemoSaver.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoSaver\obj\Debug\MemoSaver.pdb

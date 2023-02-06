@@ -1,0 +1,119 @@
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\MemoList.exe.config
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\MemoList.exe
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\MemoList.pdb
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\Apex.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\EntityFramework.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\EntityFramework.SqlServer.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\MaterialDesignColors.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\MemoForms.exe
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\System.Data.SQLite.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\Dapper.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\MemoForms.pdb
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\MemoForms.exe.config
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\EntityFramework.xml
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\EntityFramework.SqlServer.xml
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\MaterialDesignColors.pdb
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\System.Data.SQLite.xml
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\Dapper.xml
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\MemoList.csprojAssemblyReference.cache
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\Styles\DataGrid.baml
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\Styles\ScrollBar.baml
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\SearchableDataGridView.g.cs
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\App.g.cs
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\MemoList_MarkupCompile.cache
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\MemoList_MarkupCompile.lref
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\Themes\Generic.baml
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\SearchableDataGridView.baml
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\MemoList.g.resources
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\MemoList.Properties.Resources.resources
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\MemoList.csproj.GenerateResource.cache
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\MemoList.csproj.CoreCompileInputs.cache
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\MemoList.csproj.CopyComplete
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\MemoList.exe
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\MemoList.pdb
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\MemoList.exe.config
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\MemoList.exe
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\MemoList.pdb
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\Apex.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\EntityFramework.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\EntityFramework.SqlServer.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\MaterialDesignColors.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\MaterialDesignThemes.Wpf.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\MemoForms.exe
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\System.Data.SQLite.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\System.Data.SQLite.EF6.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\System.Data.SQLite.Linq.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\Dapper.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\MemoForms.pdb
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\MemoForms.exe.config
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\EntityFramework.xml
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\EntityFramework.SqlServer.xml
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\MaterialDesignColors.pdb
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\MaterialDesignThemes.Wpf.pdb
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\MaterialDesignThemes.Wpf.xml
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\System.Data.SQLite.xml
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\bin\Debug\Dapper.xml
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\MemoList.csproj.AssemblyReference.cache
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\MemoList.csproj.SuggestedBindingRedirects.cache
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\Styles\DataGrid.baml
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\Styles\ScrollBar.baml
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\SearchableDataGridView.g.cs
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\App.g.cs
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\GeneratedInternalTypeHelper.g.cs
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\MemoList_MarkupCompile.cache
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\MemoList_MarkupCompile.lref
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\Themes\Generic.baml
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\SearchableDataGridView.baml
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\MemoList.g.resources
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\MemoList.Properties.Resources.resources
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\MemoList.csproj.GenerateResource.cache
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\MemoList.csproj.CoreCompileInputs.cache
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\MemoList.csproj.CopyComplete
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\MemoList.exe
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoList\obj\Debug\MemoList.pdb
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\bin\Debug\MemoList.exe.config
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\bin\Debug\MemoList.exe
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\bin\Debug\MemoList.pdb
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\bin\Debug\Apex.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\bin\Debug\EntityFramework.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\bin\Debug\MaterialDesignColors.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\bin\Debug\MemoForms.exe
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\bin\Debug\System.Data.SQLite.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\bin\Debug\Dapper.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\bin\Debug\MemoForms.pdb
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\bin\Debug\MemoForms.exe.config
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\bin\Debug\EntityFramework.xml
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\bin\Debug\System.Data.SQLite.xml
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\bin\Debug\Dapper.xml
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\obj\Debug\MemoList.csproj.AssemblyReference.cache
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\obj\Debug\MemoList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\obj\Debug\Styles\DataGrid.baml
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\obj\Debug\Styles\ScrollBar.baml
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\obj\Debug\SearchableDataGridView.g.cs
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\obj\Debug\App.g.cs
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\obj\Debug\MemoList_MarkupCompile.cache
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\obj\Debug\MemoList_MarkupCompile.lref
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\obj\Debug\Themes\Generic.baml
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\obj\Debug\SearchableDataGridView.baml
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\obj\Debug\MemoList.g.resources
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\obj\Debug\MemoList.Properties.Resources.resources
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\obj\Debug\MemoList.csproj.GenerateResource.cache
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\obj\Debug\MemoList.csproj.CoreCompileInputs.cache
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\obj\Debug\MemoList.csproj.CopyComplete
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\obj\Debug\MemoList.exe
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoList\obj\Debug\MemoList.pdb

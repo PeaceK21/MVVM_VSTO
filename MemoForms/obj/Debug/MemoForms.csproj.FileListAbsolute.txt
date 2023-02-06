@@ -1,0 +1,100 @@
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\MemoForms.exe.config
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\MemoForms.exe
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\MemoForms.pdb
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\Apex.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\Dapper.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\EntityFramework.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\EntityFramework.SqlServer.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\MaterialDesignColors.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\System.Data.SQLite.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\Dapper.xml
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\EntityFramework.xml
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\EntityFramework.SqlServer.xml
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\MaterialDesignColors.pdb
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\System.Data.SQLite.xml
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\obj\Debug\MemoDialogView.g.cs
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\obj\Debug\App.g.cs
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\obj\Debug\MemoForms_MarkupCompile.cache
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\obj\Debug\MemoForms_MarkupCompile.lref
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\obj\Debug\MemoDialogView.baml
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\obj\Debug\MemoForms.g.resources
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\obj\Debug\MemoForms.Properties.Resources.resources
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\obj\Debug\MemoForms.csproj.GenerateResource.cache
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\obj\Debug\MemoForms.csproj.CoreCompileInputs.cache
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\obj\Debug\MemoForms.csproj.CopyComplete
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\obj\Debug\MemoForms.exe
+D:\Peace's\UpWork\MVVM UI WCF\MemoSaver\MemoForms\obj\Debug\MemoForms.pdb
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\MemoForms.exe.config
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\MemoForms.exe
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\MemoForms.pdb
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\Apex.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\Dapper.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\EntityFramework.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\EntityFramework.SqlServer.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\MaterialDesignColors.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\MaterialDesignThemes.Wpf.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\System.Data.SQLite.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\System.Data.SQLite.EF6.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\System.Data.SQLite.Linq.dll
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\Dapper.xml
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\EntityFramework.xml
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\EntityFramework.SqlServer.xml
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\MaterialDesignColors.pdb
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\MaterialDesignThemes.Wpf.pdb
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\MaterialDesignThemes.Wpf.xml
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\bin\Debug\System.Data.SQLite.xml
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\obj\Debug\MemoForms.csproj.AssemblyReference.cache
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\obj\Debug\MemoForms.csproj.SuggestedBindingRedirects.cache
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\obj\Debug\MemoDialogView.g.cs
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\obj\Debug\App.g.cs
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\obj\Debug\GeneratedInternalTypeHelper.g.cs
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\obj\Debug\MemoForms_MarkupCompile.cache
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\obj\Debug\MemoForms_MarkupCompile.lref
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\obj\Debug\MemoDialogView.baml
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\obj\Debug\MemoForms.g.resources
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\obj\Debug\MemoForms.Properties.Resources.resources
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\obj\Debug\MemoForms.csproj.GenerateResource.cache
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\obj\Debug\MemoForms.csproj.CoreCompileInputs.cache
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\obj\Debug\MemoForms.csproj.CopyComplete
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\obj\Debug\MemoForms.exe
+K:\Upwork\01_MemoSaver_60$\MVVM UI WCF\MemoSaver\MemoForms\obj\Debug\MemoForms.pdb
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\bin\Debug\MemoForms.exe.config
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\bin\Debug\MemoForms.exe
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\bin\Debug\MemoForms.pdb
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\bin\Debug\Apex.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\bin\Debug\Dapper.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\bin\Debug\EntityFramework.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\bin\Debug\MaterialDesignColors.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\bin\Debug\System.Data.SQLite.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\bin\Debug\Dapper.xml
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\bin\Debug\EntityFramework.xml
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\bin\Debug\System.Data.SQLite.xml
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\obj\Debug\MemoForms.csproj.AssemblyReference.cache
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\obj\Debug\MemoForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\obj\Debug\MemoDialogView.g.cs
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\obj\Debug\App.g.cs
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\obj\Debug\MemoForms_MarkupCompile.cache
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\obj\Debug\MemoForms_MarkupCompile.lref
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\obj\Debug\MemoDialogView.baml
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\obj\Debug\MemoForms.g.resources
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\obj\Debug\MemoForms.Properties.Resources.resources
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\obj\Debug\MemoForms.csproj.GenerateResource.cache
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\obj\Debug\MemoForms.csproj.CoreCompileInputs.cache
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\obj\Debug\MemoForms.csproj.CopyComplete
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\obj\Debug\MemoForms.exe
+C:\Users\Keyur\Source\Repos\MVVM_VSTO\MemoForms\obj\Debug\MemoForms.pdb

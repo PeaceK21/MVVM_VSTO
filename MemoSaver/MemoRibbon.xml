@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui" onLoad="Ribbon_Load">
+  <ribbon>
+    <tabs>
+      <tab idMso="TabAddIns">
+        <group id="ContentGroup" label="Memo">
+          <button id="saveMemo" label="Add to note"
+               screentip="Memo" onAction="OnSaveMemoClicked"
+               supertip="Saves note/memo."/>
+          <button id="memoList" label="Open Memo List"
+                  screentip="Memo List" onAction="OnMemoListCicked"
+                  supertip="Open List of All saved memo."/>
+        </group>
+      </tab>
+    </tabs>
+  </ribbon>
+</customUI>

@@ -1,0 +1,79 @@
+﻿<Window x:Class="BoostDraft.UI.SearchableDataGridView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BoostDraft.UI"
+        xmlns:controls="clr-namespace:BoostDraft.UI.Controls"
+        xmlns:vm="clr-namespace:BoostDraft.UI.ViewModels"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="Result" 
+        Height="450" 
+        Width="800"
+        WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Light.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Primary/MaterialDesignColor.DeepPurple.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Accent/MaterialDesignColor.Lime.xaml" />
+
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.DataGrid.xaml" />
+
+                <ResourceDictionary Source="Themes/Generic.xaml" />
+                <ResourceDictionary Source="Styles/ScrollBar.xaml" />
+                <ResourceDictionary Source="Styles/DataGrid.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+
+    </Window.Resources>
+
+    <Window.DataContext>
+        <vm:SearchableDataGridViewModel />
+    </Window.DataContext>
+
+    <Grid>
+
+
+        <controls:DataGridEx ItemsSource="{Binding Entities.View}" 
+                             Filter="{Binding Filter, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" 
+                             CanUserAddRows="False" 
+                             CanUserFilter="{Binding CanUserFilter}"
+                             FilterIsEnabled="{Binding FilterIsEnabled}"
+                             Margin="5"
+                             IsReadOnly="True"
+                             RowClickedCommand="{Binding RowClickCommand}"
+                             AutoGenerateColumns="False">
+
+            <controls:DataGridEx.Columns>
+                <DataGridTextColumn Header="Where" Binding="{Binding Where}" />
+
+                <DataGridTemplateColumn Header="Name" SortMemberPath="Name">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <controls:DataGridExTextBlock Text="{Binding Name}"
+                                                          Filter="{Binding DataContext.Filter, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType={x:Type DataGrid}}}"
+                                                          HighlightBrush="{StaticResource AccentBrush}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Header="Content" SortMemberPath="Content" Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <controls:DataGridExTextBlock Text="{Binding Content}" MaxHeight="35" Height="35"
+                                                          Filter="{Binding DataContext.Filter, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType={x:Type DataGrid}}}"
+                                                          HighlightBrush="{StaticResource AccentBrush}"
+                                                          TextTrimming="CharacterEllipsis"
+                                                          TextWrapping="WrapWithOverflow"
+                                                          />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+
+            </controls:DataGridEx.Columns>
+        </controls:DataGridEx>
+    </Grid>
+</Window>
